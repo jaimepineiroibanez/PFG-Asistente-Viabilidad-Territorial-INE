@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+tqdm
+pandas
+pyarrow
+duckdb
+sentence-transformers
+faiss-cpu
+numpy
+openai
+python-telegram-bot
+torch
+scikit-learn
+scipy
+transformers
+huggingface-hub

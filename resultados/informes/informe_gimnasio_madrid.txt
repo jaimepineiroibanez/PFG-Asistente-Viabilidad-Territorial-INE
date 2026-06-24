@@ -1,0 +1,776 @@
+INFORME PRELIMINAR DE VIABILIDAD TERRITORIAL
+================================================================================
+
+Negocio: gimnasio
+Territorio: Madrid
+Cobertura: 85.71%
+Nivel de fiabilidad: ALTO
+Puntuación de datos: 12/14
+
+Detalle por pilares:
+- mercado: 2/2
+- demografia: 1/2
+- economia: 2/2
+- laboral: 2/2
+- empresas: 2/2
+- actividad_empresarial: 1/2
+- sector_negocio: 2/2
+
+================================================================================
+INFORME
+================================================================================
+
+# INFORME PRELIMINAR DE VIABILIDAD TERRITORIAL
+
+## Negocio analizado
+Gimnasio
+
+## Territorio analizado
+Madrid (Comunidad de Madrid)
+
+## 1. Contexto poblacional
+
+La Comunidad de Madrid tiene una población total estimada en 2025 de 7.113.886 habitantes, con
+3.706.476 mujeres y 3.407.410 hombres. Dentro del territorio, el municipio de Madrid cuenta con
+aproximadamente 3.477.497 habitantes (1.846.375 mujeres y 1.631.122 hombres).
+
+El volumen poblacional significativo de la región puede sugerir un amplio mercado potencial para
+actividades que requieran gran afluencia de clientes, como un gimnasio. Sin embargo, la población
+total por sí sola no proporciona información específica sobre la demanda real o la capacidad de
+atracción de un gimnasio, quedando estos aspectos fuera del alcance del análisis.
+
+## 2. Perfil demográfico
+
+Los datos sobre edad muestran que, por ejemplo, en zonas específicas como Abrantes (Madrid), al año
+2024, el 70% de la población se encuentra en el rango de 15 a 64 años, y el 16,9% corresponde a
+personas mayores de 65 años. En Rivas-Vaciamadrid, la edad media de la población es relativamente
+joven, con 35,1 años en la sección censal 01046 en 2023. El porcentaje de población mayor de 65 años
+es también bajo en algunas zonas, alrededor del 6-7,8%.
+
+No se dispone de una desagregación completa de las edades en toda la Comunidad, aunque estos datos
+parciales apuntan a una base de población en edad laboral y activa, que puede ser relevante para
+ciertos servicios.
+
+En cuanto a distribución por sexo, la población es equilibrada, con una ligera mayoría femenina en
+términos cuantitativos.
+
+## 3. Situación económica
+
+La renta neta media por persona en la Comunidad de Madrid en 2023 es aproximadamente de 18.142 euros
+anuales, con una renta bruta media por hogar de alrededor de 62.303 euros. Por ejemplo, en el
+municipio de Humanes de Madrid para 2023, la renta neta media por persona es menor, 12.552 euros, y
+la renta bruta media por hogar es de 34.364 euros, niveles inferiores a la media regional.
+
+Estos indicadores sugieren una capacidad económica media a alta a nivel regional, aunque existe
+heterogeneidad territorial. Dicha capacidad puede favorecer el acceso a servicios como gimnasios,
+aunque no se dispone de datos directos sobre gasto en ocio o deporte.
+
+## 4. Situación laboral
+
+La Comunidad de Madrid presenta una tasa de paro en 2023 del 11% en términos generales, con un 12,1%
+para mujeres y un 10% para hombres. Además, se observan diferentes duraciones del paro entre la
+población desempleada.
+
+Respecto a costes laborales, en el cuarto trimestre de 2025, el coste laboral total por hora en el
+sector servicios alcanza aproximadamente 30,86 euros en la Comunidad de Madrid, destacando los
+costes salariales sobre el total. El coste total bruto anual por trabajador en 2024 es de unos
+44.227 euros en el sector servicios.
+
+Estos datos apuntan a un mercado laboral formal con costos relativamente altos, que puede influir en
+la estructura de costes empresariales.
+
+## 5. Tejido empresarial
+
+La Comunidad de Madrid cuenta con un volumen considerable de empresas. Los datos señalan un total
+aproximado de 602.004 empresas en todas las actividades, según una fuente sin año específico. Por
+otro lado, el directorio central de empresas (DIRCE) para 2025 indica 526.588 empresas registradas
+en la Comunidad.
+
+Se observa una fuerte concentración de locales en el sector servicios, con cifras en torno a 416.808
+locales en 2024. También existen miles de locales dedicados al comercio, transporte y otros
+servicios.
+
+La estructura empresarial está diversificada, con predominio del sector servicios y una importante
+base empresarial sólida, lo que sugiere un entorno económico activo.
+
+## 6. Actividad empresarial
+
+El Producto Interior Bruto (PIB) estimado para sociedades no financieras en 2025 es aproximadamente
+241.127 millones de euros (datos no ajustados), con variaciones positivas anuales superiores al 6%.
+
+El sector servicios, en particular, es predominante con un elevado número de locales y coste laboral
+significativo, indicando su peso en la economía local.
+
+El gasto en consumo individual de la economía total regional asciende a cerca de 299.228 millones de
+euros en 2025, con una tasa de crecimiento anual positiva.
+
+Estos indicadores reflejan la importancia del sector servicios en la actividad económica de Madrid,
+aunque no se dispone de datos específicos sobre actividades relacionadas directamente con gimnasios
+o actividades deportivas.
+
+## 7. Sector específico del negocio
+
+No se han recuperado datos específicos del sector gimnasio en la Comunidad de Madrid más allá de
+indicadores económicos y demográficos generales referidos a municipios como Humanes de Madrid y
+secciones censales de Madrid, tales como renta media por persona o por unidad de consumo.
+
+Dichos datos económicos locales no permiten extraer conclusiones sólidas o específicas sobre el
+sector gimnasios, por lo que el análisis de variables particulares de la actividad, como número de
+gimnasios, ocupación, o características del mercado, no es posible.
+
+## 8. Turismo
+
+No se han encontrado datos turísticos específicos para la Comunidad de Madrid dentro del conjunto
+recuperado.
+
+## 9. Limitaciones del análisis
+
+Este informe se basa únicamente en datos disponibles del Instituto Nacional de Estadística (INE),
+principalmente de años recientes entre 2023 y 2025. Las fuentes incluyen cifras censales, encuestas
+de condiciones de vida, directorios de empresas y cuentas económicas.
+
+No se dispone de información sobre competencia directa, demanda real efectiva para gimnasios,
+precios de alquiler, hábitos de consumo específicos, ni clientes potenciales reales.
+
+Además, algunos datos son parciales o corresponden a zonas o municipios específicos que no
+representan necesariamente toda la comunidad.
+
+En consecuencia, este documento ofrece una caracterización territorial y demográfica general, y debe
+interpretarse con cautela para propósitos específicos relacionados con la viabilidad concreta de un
+gimnasio.
+
+## 10. Valoración territorial preliminar
+
+**Fortalezas observadas:**
+
+- La Comunidad de Madrid posee una población elevada, con más de 7 millones de habitantes, lo que
+  supone un gran volumen potencial de usuarios potenciales para actividades económicas de consumo
+  directo.
+- La estructura demográfica incluye una proporción amplia de población en edad activa (15-64 años) y
+  una distribución equilibrada de sexos.
+- La renta media por persona y hogar es superior a la media nacional, con un nivel económico
+  generalmente favorable.
+- Existe un tejido empresarial amplio, diversificado y un sector servicios dinámico con abundantes
+  locales.
+- El mercado laboral es formalizado, con altos costes laborales que pueden reflejar un nivel de
+  especialización, aunque también un coste empresarial notable.
+
+**Debilidades observadas:**
+
+- No existen datos específicos accesibles sobre el sector gimnasio que permitan conocer la
+  competencia, la demanda segmentada o las características particulares del mercado.
+- La heterogeneidad económica dentro de la Comunidad, con municipios menos favorecidos
+  económicamente, puede requerir un análisis más granular según la ubicación concreta.
+- La tasa de paro, aunque establecida, podría influir en la capacidad de gasto de ciertos segmentos
+  poblacionales.
+
+**Oportunidades territoriales generales:**
+
+- Crecimiento económico y consumo positivo en la región indicados en cuentas económicas y gasto
+  individual, que pueden favorecer la actividad económica en sectores de servicios.
+- La importante proporción de población en edad laboral sugiere un mercado potencial para servicios
+  que promuevan el bienestar y la salud.
+
+**Limitaciones de los datos:**
+
+- Ausencia de información directa sobre el sector específico del gimnasio, competencia y demanda
+  real.
+- Datos económicos y demográficos agregados que no captan la complejidad y diversidad interna del
+  territorio.
+- Falta de indicadores sobre características de consumo vinculadas a servicios deportivos o de ocio.
+
+**Respuesta a la pregunta:**
+
+El territorio de la Comunidad de Madrid presenta características demográficas, económicas y
+empresariales que apuntan a un mercado amplio y económicamente activo, con una base poblacional
+significativa en edad de consumo potencial. Sin embargo, la falta de datos específicos sobre el
+sector gimnasios y la heterogeneidad interna deben considerarse para un análisis más profundo. Desde
+un enfoque territorial, la región cuenta con una estructura favorable en términos poblacionales y
+económicos que puede ser relevante para actividades empresariales orientadas al consumidor final, si
+bien la viabilidad concreta requiere complementar el análisis con información sectorial más directa
+y específica.
+
+================================================================================
+FUENTES Y TABLAS RECUPERADAS POR EL SISTEMA
+================================================================================
+
+Nota: las tablas listadas son las recuperadas durante el proceso de búsqueda. Algunas pueden
+corresponder a ámbitos nacionales, autonómicos o territorios distintos, por lo que deben
+interpretarse junto con las limitaciones indicadas en el informe.
+
+
+Pilar: mercado
+ID tabla: 67991
+Operación: Censo Anual de Población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 67988
+Operación: Censo Anual de Población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 31105
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: mercado
+ID tabla: 68201
+Operación: Censo Anual de Población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 68065
+Operación: Censo Anual de Población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 04002
+Operación: Censo Agrario
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176851&idp=1254735727106
+
+Pilar: mercado
+ID tabla: 31097
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: mercado
+ID tabla: 69336
+Operación: Indicadores Urbanos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176957&idp=1254735976608
+
+Pilar: mercado
+ID tabla: 31098
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: mercado
+ID tabla: 9688
+Operación: Cifras de población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176951&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 31304
+Operación: Cifras de población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176951&idp=1254735572981
+
+Pilar: demografia
+ID tabla: 60931
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 01007
+Operación: Cuenta satélite del turismo de España
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736169169&idp=1254735576863
+
+Pilar: demografia
+ID tabla: 01006
+Operación: Censo Agrario
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176851&idp=1254735727106
+
+Pilar: demografia
+ID tabla: 65061
+Operación: Encuesta de población activa
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595
+
+Pilar: demografia
+ID tabla: 01003
+Operación: Cuenta de bienes y servicios ambientales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177053&idp=1254735976603
+
+Pilar: demografia
+ID tabla: 13582
+Operación: Estadística de movilidad laboral y geográfica
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176909&idp=1254735976597
+
+Pilar: demografia
+ID tabla: 61165
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 01020201001
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 61172
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 60909
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 53776
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 20193
+Operación: Estadística de transporte de viajeros
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176906&idp=1254735576820
+
+Pilar: demografia
+ID tabla: 49300
+Operación: Índice de precios de vivienda
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736152838&idp=1254735976607
+
+Pilar: demografia
+ID tabla: 75681
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 1488
+Operación: Indicadores demográficos básicos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177003&idp=1254735573002
+
+Pilar: demografia
+ID tabla: 75682
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 69324
+Operación: Indicadores Urbanos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176957&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 65334
+Operación: Encuesta de población activa
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595
+
+Pilar: demografia
+ID tabla: 65353
+Operación: Encuesta de población activa
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595
+
+Pilar: demografia
+ID tabla: 69330
+Operación: Indicadores Urbanos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176957&idp=1254735976608
+
+Pilar: economia
+ID tabla: 9942
+Operación: Encuesta de Condiciones de Vida (ECV)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608
+
+Pilar: economia
+ID tabla: 53689
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 30896
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 31106
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 31250
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 9949
+Operación: Encuesta de Condiciones de Vida (ECV)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608
+
+Pilar: economia
+ID tabla: 53687
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: laboral
+ID tabla: 6062
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 6061
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 9131
+Operación: Encuesta anual de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736060920&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 59153
+Operación: Índice de coste laboral armonizado
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736053992&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 59151
+Operación: Índice de coste laboral armonizado
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736053992&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 6063
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 01011
+Operación: Indicadores de confianza empresarial
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736163552&idp=1254735576550
+
+Pilar: laboral
+ID tabla: 36176
+Operación: Estadística estructural de empresas: sector industrial
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736143952&idp=1254735576715
+
+Pilar: laboral
+ID tabla: 36188
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: laboral
+ID tabla: 2074
+Operación: Hoteles: encuesta de ocupación, índice de precios e indicadores de rentabilidad
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177015&idp=1254735576863
+
+Pilar: laboral
+ID tabla: 13577
+Operación: Estadística de movilidad laboral y geográfica
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176909&idp=1254735976597
+
+Pilar: laboral
+ID tabla: 65349
+Operación: Encuesta de población activa
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595
+
+Pilar: laboral
+ID tabla: 9963
+Operación: Encuesta de Condiciones de Vida (ECV)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608
+
+Pilar: laboral
+ID tabla: 020202001
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: laboral
+ID tabla: 020201001
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: laboral
+ID tabla: 53353
+Operación: Encuesta industrial de productos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736149053&idp=1254735576715
+
+Pilar: laboral
+ID tabla: 13569
+Operación: Estadística de movilidad laboral y geográfica
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176909&idp=1254735976597
+
+Pilar: laboral
+ID tabla: 03012
+Operación: Encuesta de inserción laboral de titulados universitarios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176991&idp=1254735976597
+
+Pilar: laboral
+ID tabla: 59391
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 9126
+Operación: Encuesta anual de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736060920&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 9125
+Operación: Encuesta anual de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736060920&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 6038
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: empresas
+ID tabla: 54686
+Operación: Demografía armonizada de empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161927&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 4721
+Operación: Explotación estadística del directorio central de empresas. DIRCE
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736160707&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 61351
+Operación: Encuesta sobre innovación en las empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176755&idp=1254735576669
+
+Pilar: empresas
+ID tabla: 59943
+Operación: Estadística de Empresas según su pertenencia a grupos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161127&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 36203
+Operación: Estadística estructural de empresas: sector comercio
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176902&idp=1254735576799
+
+Pilar: empresas
+ID tabla: 60305
+Operación: Demografía armonizada de empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161927&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 54687
+Operación: Demografía armonizada de empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161927&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 39372
+Operación: Explotación estadística del directorio central de empresas. DIRCE
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736160707&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 54685
+Operación: Demografía armonizada de empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161927&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 302
+Operación: Explotación estadística del directorio central de empresas. DIRCE
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736160707&idp=1254735576550
+
+Pilar: actividad_empresarial
+ID tabla: 62271
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62269
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62265
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62266
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62270
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 76254
+Operación: Estadística de filiales de empresas españolas en el exterior
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736162975&idp=1254735576550
+
+Pilar: actividad_empresarial
+ID tabla: 36180
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 71706
+Operación: Estadísticas sobre las actividades de protección medioambiental
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176846&idp=1254735976612
+
+Pilar: actividad_empresarial
+ID tabla: 48820
+Operación: Estadísticas sobre las actividades de protección medioambiental
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176846&idp=1254735976612
+
+Pilar: actividad_empresarial
+ID tabla: 60558
+Operación: Índice de producción del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177099&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 60288
+Operación: Indicadores de actividad del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176863&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 59974
+Operación: Índices de precios del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176864&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 59973
+Operación: Índices de precios del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176864&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 60292
+Operación: Indicadores de actividad del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176863&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 36186
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 36182
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 36179
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 0202001
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 0202002
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 28192
+Operación: Encuestas de estructura salarial
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177025&idp=1254735976596
+
+Pilar: sector_negocio
+ID tabla: 72118
+Operación: Comercio Internacional de Servicios por Modos de Suministro (MoS)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177111&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 75685
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 0203002
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 75683
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 10874
+Operación: Encuesta de comercio internacional de servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736174702&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 36640
+Operación: Encuesta de comercio internacional de servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736174702&idp=1254735576778

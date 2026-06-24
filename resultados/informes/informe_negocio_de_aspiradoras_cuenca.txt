@@ -1,0 +1,968 @@
+INFORME PRELIMINAR DE VIABILIDAD TERRITORIAL
+================================================================================
+
+Negocio: negocio de aspiradoras
+Territorio: Cuenca
+Cobertura: 35.71%
+Nivel de fiabilidad: BAJO
+
+ALERTA DE COBERTURA
+--------------------------------------------------------------------------------
+Cobertura estadística limitada
+
+Se han recuperado algunos datos útiles, pero la caracterización territorial no es suficientemente
+completa para extraer conclusiones sólidas.
+Puntuación de datos: 5/14
+
+Detalle por pilares:
+- mercado: 2/2
+- demografia: 1/2
+- economia: 0/2
+- laboral: 1/2
+- empresas: 1/2
+- actividad_empresarial: 0/2
+- sector_negocio: 0/2
+
+================================================================================
+INFORME
+================================================================================
+
+# # INFORME PRELIMINAR DE VIABILIDAD TERRITORIAL
+
+## Negocio analizado
+
+Negocio de aspiradoras
+
+## Territorio analizado
+
+Cuenca
+
+## 1. Contexto poblacional
+
+Según el Censo Anual de Población para el año 2025, la población total de Cuenca es de
+aproximadamente 199.859 personas, con una distribución cercana entre hombres (100.975) y mujeres
+(98.884). A nivel municipal, Cuenca cuenta con 238 municipios, predominando municipios pequeños,
+aunque existe uno con una población entre 50.001 y 100.000 habitantes y otro entre 10.001 y 20.000
+habitantes.
+
+En términos de volumen potencial de clientes, la población total ofrece una base amplia, aunque la
+densidad y distribución demográfica municipal pueden afectar la accesibilidad local. Esto puede
+favorecer la demanda potencial de productos domésticos como aspiradoras, si bien el censo no
+profundiza en hábitos de consumo o capacidad adquisitiva individual.
+
+## 2. Perfil demográfico
+
+No se dispone de datos específicos actualizados sobre la distribución por edad exacta en Cuenca,
+aunque hay algunas referencias a poblaciones con diferentes características:
+
+- Nacimientos recientes en 2026 estiman 101 nacimientos en total, con cierta estabilidad en menores
+  de 15 años, aunque datos específicos sobre la población joven generalizada no son completos.
+- Datos vigentes de 2013 indican una población adulta importante (38.189 personas mayores de 16
+  años).
+- La encuesta sobre participación en educación apunta a una población con diverso nivel formativo,
+  con presencia de formación profesional de grado superior alrededor del 11,5% (dato nacional sin
+  especificar Cuenca).
+- Datos parciales sobre diversidad cultural apuntan un bajo porcentaje de población de origen árabe
+  (3.3%), con presencia de otras lenguas regionales en población total (catalán 16.4%, gallego 5.7%,
+  valenciano 5.9%, euskera 3.1%), aunque esta información no es específica ni representativa de
+  Cuenca sino probablemente nacional.
+
+En general, Cuenca presenta una estructura demográfica con población adulta estable y grupos de
+jóvenes, pero se requiere cautela al interpretar su impacto en demanda para este tipo de negocio por
+falta de datos detallados.
+
+## 3. Situación económica
+
+En cuanto a la renta, para el año 2023 se estima que la renta neta media por persona en Cuenca es de
+aproximadamente 12.725 euros, con una renta bruta media por hogar de 35.929 euros. La mediana de la
+renta por unidad de consumo está situada en unos 16.450 euros.
+
+Estos valores indican que la capacidad económica en Cuenca es inferior respecto a la media nacional,
+que para 2025 se sitúa por encima de 15.600 euros por persona según datos nacionales. Esto puede
+indicar un mercado con poder adquisitivo moderado, y debe interpretarse con cautela respecto a la
+capacidad de compra.
+
+No existen datos específicos sobre niveles de ingreso dirigidos expresamente al consumo en el ámbito
+del negocio de aspiradoras.
+
+## 4. Situación laboral
+
+Para el año 2025, las tasas de actividad y empleo en Cuenca presentan cifras moderadas:
+
+- Tasa de actividad: 57,84%
+- Tasa de empleo total: 49,74%
+- Tasa de paro total: 14,0%, con mayor desempleo femenino (17,77%) que masculino (11,31%).
+
+El índice de coste laboral total por hora en industria, construcción y servicios en el ámbito
+nacional es de 122,547 euros (2025 T4), con aumento anual en costes salariales y otros costes
+cercanos al 3-4%. No hay datos específicos de coste laboral propios para Cuenca, lo que limita la
+precisión de análisis sectoriales.
+
+La tasa de paro es relativamente elevada, lo que puede influir en la demanda general y en la
+capacidad productiva local, con potencial impacto sobre el consumo doméstico y/o producción.
+
+## 5. Tejido empresarial
+
+Los datos más recientes indican que en Cuenca, para 2025, existen aproximadamente:
+
+- 7.513 empresas constituidas por personas físicas
+- 625 comunidades de bienes
+- 174 sociedades cooperativas y 441 asociaciones y otros tipos empresariales
+- 34 organismos autónomos y otros.
+
+No se dispone de un dato global total de empresas exacto para Cuenca, pero se observa actividad
+empresarial en distintos formatos jurídicos y tamaños, con predominancia de empresas pequeñas y
+formas societarias no anónimas ni limitadas. Esto indica un tejido empresarial diversificado
+mayoritariamente en PYMES y autónomos.
+
+## 6. Actividad empresarial
+
+No se dispone de datos específicos sobre la distribución sectorial exacta en Cuenca, pero a nivel
+nacional para sectores relacionados con la manufactura y servicios, se observan:
+
+- Presencia de sectores manufactureros diversos con un excedente bruto de explotación significativo.
+- Sector servicios con aportes relevantes a la economía estatal.
+- Datos sobre los locales en sectores como transporte, investigación y desarrollo indican actividad
+  general en servicios, aunque sin detalle regional.
+
+Por ello, la actividad económica parece ser heterogénea y concentrada en pequeñas y medianas
+empresas, sin datos específicos sobre negocios dedicados a productos de menaje o electrodomésticos.
+
+## 7. Sector específico del negocio
+
+No se han recuperado datos específicos del sector de aspiradoras en Cuenca. Los datos sectoriales
+vinculados al negocio analizado son muy limitados, con referencias de encuestas sobre gasto en
+educación o apartamentos turísticos que no aplican para este sector.
+
+Por tanto, no existen estadísticas oficiales específicas sobre mercado, ventas, o competencia
+directa en el sector de aspiradoras en Cuenca.
+
+## 8. Turismo
+
+No se han recuperado datos turísticos específicos para Cuenca que se relacionen directamente con el
+negocio de aspiradoras.
+
+## 9. Limitaciones del análisis
+
+Este informe se ha elaborado exclusivamente con datos oficiales del INE disponibles para Cuenca, con
+distintos años de referencia (principalmente 2023-2025). Se carece de información específica para el
+sector de aspiradoras, competencia directa, demanda real, precios, alquileres o patrones de consumo
+concretos. Algunos datos son nacionales o de otras comunidades y no aplican directamente a Cuenca,
+por lo que no se han utilizado para valorar específicamente este territorio.
+
+Por ello, la valoración y los análisis deben entenderse como una aproximación preliminar del
+contexto socioeconómico territorial, sin elementos para juicios comerciales definitivos ni
+recomendaciones de inversión.
+
+## 10. Valoración territorial preliminar
+
+Cuenca presenta:
+
+- **Fortalezas:** Población total de cerca de 200.000 habitantes, con un tejido empresarial
+  diversificado basado en empresas pequeñas y cooperativas. Presencia de población activa
+  significativa y estructura demográfica con población adulta estable.
+
+- **Debilidades:** Renta media inferior a la media nacional, tasa de paro del 14% con mayor impacto
+  femenino, coste laboral con referencia nacional moderada pero sin datos específicos para Cuenca.
+  Ausencia de datos sectoriales específicos para el negocio de aspiradoras y patrones de consumo
+  concretos.
+
+- **Oportunidades territoriales:** Numerosos municipios, principalmente pequeños, lo que puede
+  favorecer la cercanía y cobertura local. El tejido empresarial configurado en su mayoría por PYMES
+  puede representar un contexto dinámico para la adaptación de nuevas actividades comerciales.
+
+- **Limitaciones de los datos:** La falta de información específica sectorial, de competencia,
+  demanda real y variables de mercado concretas limita la posibilidad de realizar un análisis
+  profundo para el negocio específico. Los datos disponibles sobre demografía y economía consultados
+  son generales y no proporcionan información directa sobre los clientes potenciales operativos o
+  sus hábitos de consumo.
+
+En conclusión, el territorio de Cuenca cuenta con una base poblacional y empresarial heterogénea que
+puede influir en la implantación de actividades económicas. Los indicadores socioeconómicos
+generales y laborales proporcionan un marco precautorio, destacando la necesidad de considerar la
+moderada capacidad económica y la tasa de desempleo. Se recomienda complementar este análisis con
+estudios específicos de mercado y análisis detallados en el sector antes de cualquier decisión
+empresarial concreta.
+
+================================================================================
+FUENTES Y TABLAS RECUPERADAS POR EL SISTEMA
+================================================================================
+
+Nota: las tablas listadas son las recuperadas durante el proceso de búsqueda. Algunas pueden
+corresponder a ámbitos nacionales, autonómicos o territorios distintos, por lo que deben
+interpretarse junto con las limitaciones indicadas en el informe.
+
+
+Pilar: mercado
+ID tabla: 67988
+Operación: Censo Anual de Población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 020201001
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: mercado
+ID tabla: 67991
+Operación: Censo Anual de Población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 04002
+Operación: Censo Agrario
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176851&idp=1254735727106
+
+Pilar: mercado
+ID tabla: 68201
+Operación: Censo Anual de Población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 61172
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: mercado
+ID tabla: 68065
+Operación: Censo Anual de Población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 65349
+Operación: Encuesta de población activa
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595
+
+Pilar: mercado
+ID tabla: 9690
+Operación: Cifras de población
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176951&idp=1254735572981
+
+Pilar: mercado
+ID tabla: 020202001
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: mercado
+ID tabla: 01006
+Operación: Censo Agrario
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176851&idp=1254735727106
+
+Pilar: mercado
+ID tabla: 51156
+Operación: Censo Agrario
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176851&idp=1254735727106
+
+Pilar: mercado
+ID tabla: 51176
+Operación: Censo Agrario
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176851&idp=1254735727106
+
+Pilar: demografia
+ID tabla: 60931
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 66853
+Operación: Encuestas de discapacidad
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176782&idp=1254735573175
+
+Pilar: demografia
+ID tabla: 01003
+Operación: Cuenta de bienes y servicios ambientales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177053&idp=1254735976603
+
+Pilar: demografia
+ID tabla: 60909
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 01004
+Operación: Cuenta de bienes y servicios ambientales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177053&idp=1254735976603
+
+Pilar: demografia
+ID tabla: 01020201001
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 66851
+Operación: Encuestas de discapacidad
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176782&idp=1254735573175
+
+Pilar: demografia
+ID tabla: 66847
+Operación: Encuestas de discapacidad
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176782&idp=1254735573175
+
+Pilar: demografia
+ID tabla: 60940
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 31105
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 53776
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 61165
+Operación: Encuesta sobre la participación de la población adulta en las actividades de aprendizaje
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176759&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 30841
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 31213
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 30814
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 0207
+Operación: Encuesta sobre el gasto de los hogares en educación
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176983&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 75681
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 1488
+Operación: Indicadores demográficos básicos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177003&idp=1254735573002
+
+Pilar: demografia
+ID tabla: 75682
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 69336
+Operación: Indicadores Urbanos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176957&idp=1254735976608
+
+Pilar: demografia
+ID tabla: 65334
+Operación: Encuesta de población activa
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595
+
+Pilar: demografia
+ID tabla: 0101
+Operación: Encuesta sobre el gasto de los hogares en educación
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176983&idp=1254735573113
+
+Pilar: demografia
+ID tabla: 01101
+Operación: Encuesta de financiación y gastos de la enseñanza privada
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176760&idp=1254735573113
+
+Pilar: economia
+ID tabla: 9942
+Operación: Encuesta de Condiciones de Vida (ECV)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608
+
+Pilar: economia
+ID tabla: 31097
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 53689
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 30896
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 31106
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 31250
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 9949
+Operación: Encuesta de Condiciones de Vida (ECV)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608
+
+Pilar: economia
+ID tabla: 31098
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 53687
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: economia
+ID tabla: 23995
+Operación: Encuesta de gasto turístico. Egatur
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177002&idp=1254735576863
+
+Pilar: laboral
+ID tabla: 59151
+Operación: Índice de coste laboral armonizado
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736053992&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 59153
+Operación: Índice de coste laboral armonizado
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736053992&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 01011
+Operación: Indicadores de confianza empresarial
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736163552&idp=1254735576550
+
+Pilar: laboral
+ID tabla: 6061
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 6063
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 6062
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 9131
+Operación: Encuesta anual de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736060920&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 0208022
+Operación: Encuesta sobre las personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176817&idp=1254735976608
+
+Pilar: laboral
+ID tabla: 60296
+Operación: Indicadores de actividad del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176863&idp=1254735576778
+
+Pilar: laboral
+ID tabla: 78713
+Operación: Cuenta Satélite de la Economía Social
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177120&idp=1254735576581
+
+Pilar: laboral
+ID tabla: 13582
+Operación: Estadística de movilidad laboral y geográfica
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176909&idp=1254735976597
+
+Pilar: laboral
+ID tabla: 13577
+Operación: Estadística de movilidad laboral y geográfica
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176909&idp=1254735976597
+
+Pilar: laboral
+ID tabla: 0214
+Operación: Encuesta sobre el gasto de los hogares en educación
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176983&idp=1254735573113
+
+Pilar: laboral
+ID tabla: 03010
+Operación: Encuesta de transición educativa-formativa e inserción laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736056996&idp=1254735976597
+
+Pilar: laboral
+ID tabla: 03012
+Operación: Encuesta de inserción laboral de titulados universitarios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176991&idp=1254735976597
+
+Pilar: laboral
+ID tabla: 03201
+Operación: Encuesta de financiación y gastos de la enseñanza privada
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176760&idp=1254735573113
+
+Pilar: laboral
+ID tabla: 69330
+Operación: Indicadores Urbanos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176957&idp=1254735976608
+
+Pilar: laboral
+ID tabla: 9963
+Operación: Encuesta de Condiciones de Vida (ECV)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608
+
+Pilar: laboral
+ID tabla: 30027
+Operación: El empleo de las personas con discapacidad
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736055502&idp=1254735976621
+
+Pilar: laboral
+ID tabla: 03003
+Operación: El empleo de las personas con discapacidad
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736055502&idp=1254735976621
+
+Pilar: laboral
+ID tabla: 9125
+Operación: Encuesta anual de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736060920&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 9126
+Operación: Encuesta anual de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736060920&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 59391
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: laboral
+ID tabla: 6038
+Operación: Encuesta trimestral de coste laboral
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&idp=1254735976596
+
+Pilar: empresas
+ID tabla: 54686
+Operación: Demografía armonizada de empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161927&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 60305
+Operación: Demografía armonizada de empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161927&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 54687
+Operación: Demografía armonizada de empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161927&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 54685
+Operación: Demografía armonizada de empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161927&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 302
+Operación: Explotación estadística del directorio central de empresas. DIRCE
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736160707&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 36188
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: empresas
+ID tabla: 59936
+Operación: Estadística de Empresas según su pertenencia a grupos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161127&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 0202002
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: empresas
+ID tabla: 39372
+Operación: Explotación estadística del directorio central de empresas. DIRCE
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736160707&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 4721
+Operación: Explotación estadística del directorio central de empresas. DIRCE
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736160707&idp=1254735576550
+
+Pilar: empresas
+ID tabla: 36176
+Operación: Estadística estructural de empresas: sector industrial
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736143952&idp=1254735576715
+
+Pilar: actividad_empresarial
+ID tabla: 62271
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62269
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62265
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62266
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62274
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 62270
+Operación: Cuentas trimestrales no financieras de los sectores institucionales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736165305&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 2008
+Operación: Alojamientos de turismo rural: encuesta de ocupación e índice de precios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176963&idp=1254735576863
+
+Pilar: actividad_empresarial
+ID tabla: 77162
+Operación: Cuenta de subvenciones y otras transferencias similares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177118&idp=1254735976603
+
+Pilar: actividad_empresarial
+ID tabla: 65353
+Operación: Encuesta de población activa
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&idp=1254735976595
+
+Pilar: actividad_empresarial
+ID tabla: 76254
+Operación: Estadística de filiales de empresas españolas en el exterior
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736162975&idp=1254735576550
+
+Pilar: actividad_empresarial
+ID tabla: deap05
+Operación: Indicadores del sector de tecnologías de la información y las comunicaciones (TIC)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176742&idp=1254735576692
+
+Pilar: actividad_empresarial
+ID tabla: 77164
+Operación: Cuenta de subvenciones y otras transferencias similares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177118&idp=1254735976603
+
+Pilar: actividad_empresarial
+ID tabla: 71706
+Operación: Estadísticas sobre las actividades de protección medioambiental
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176846&idp=1254735976612
+
+Pilar: actividad_empresarial
+ID tabla: 78690
+Operación: Cuenta Satélite de la Economía Social
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177120&idp=1254735576581
+
+Pilar: actividad_empresarial
+ID tabla: 48820
+Operación: Estadísticas sobre las actividades de protección medioambiental
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176846&idp=1254735976612
+
+Pilar: actividad_empresarial
+ID tabla: 60288
+Operación: Indicadores de actividad del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176863&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 60558
+Operación: Índice de producción del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177099&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 60292
+Operación: Indicadores de actividad del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176863&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 59974
+Operación: Índices de precios del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176864&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 60732
+Operación: Índice de producción del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177099&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 59973
+Operación: Índices de precios del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176864&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 67840
+Operación: Índices de precios del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176864&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 60290
+Operación: Indicadores de actividad del sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176863&idp=1254735576778
+
+Pilar: actividad_empresarial
+ID tabla: 36186
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 67191
+Operación: Apartamentos turísticos: encuesta de ocupación e índice de precios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176962&idp=1254735576863
+
+Pilar: sector_negocio
+ID tabla: 46681
+Operación: Estimación mensual de nacimientos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177079&idp=1254735573002
+
+Pilar: sector_negocio
+ID tabla: 0202001
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 0203002
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 2992
+Operación: Estadística del procedimiento concursal
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177018&idp=1254735576550
+
+Pilar: sector_negocio
+ID tabla: 59787
+Operación: Índices de comercio al por menor
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176900&idp=1254735576799
+
+Pilar: sector_negocio
+ID tabla: 61351
+Operación: Encuesta sobre innovación en las empresas
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176755&idp=1254735576669
+
+Pilar: sector_negocio
+ID tabla: 59943
+Operación: Estadística de Empresas según su pertenencia a grupos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736161127&idp=1254735576550
+
+Pilar: sector_negocio
+ID tabla: 2060
+Operación: Alojamientos de turismo rural: encuesta de ocupación e índice de precios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176963&idp=1254735576863
+
+Pilar: sector_negocio
+ID tabla: 3_1
+Operación: Estadística de variaciones residenciales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177013&idp=1254734710990
+
+Pilar: sector_negocio
+ID tabla: 6528
+Operación: MNP: Estadística de Matrimonios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176999&idp=1254735573002
+
+Pilar: sector_negocio
+ID tabla: 29275
+Operación: Estadística sobre litigios en arrendamientos urbanos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176796&idp=1254735573206
+
+Pilar: sector_negocio
+ID tabla: 29276
+Operación: Estadística sobre litigios en arrendamientos urbanos
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176796&idp=1254735573206
+
+Pilar: sector_negocio
+ID tabla: 53688
+Operación: Atlas de distribución de renta de los hogares
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 0101004
+Operación: Encuesta sobre centros y servicios de atención a personas sin hogar
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176925&idp=1254735976608
+
+Pilar: sector_negocio
+ID tabla: 36179
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 36180
+Operación: Estadística estructural de empresas: sector servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176865&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 72118
+Operación: Comercio Internacional de Servicios por Modos de Suministro (MoS)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177111&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 53476
+Operación: Cuenta de impuestos ambientales
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176942&idp=1254735976603
+
+Pilar: sector_negocio
+ID tabla: 55052
+Operación: Cuenta de flujos físicos de la energía
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177046&idp=1254735976603
+
+Pilar: sector_negocio
+ID tabla: 10874
+Operación: Encuesta de comercio internacional de servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736174702&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 36640
+Operación: Encuesta de comercio internacional de servicios
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736174702&idp=1254735576778
+
+Pilar: sector_negocio
+ID tabla: 76103
+Operación: Índice de precios de consumo armonizado (IPCA)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176803&idp=1254735976607
+
+Pilar: sector_negocio
+ID tabla: 25333
+Operación: Índice de precios de consumo (IPC)
+URL operación INE:
+https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176802&idp=1254735976607
