@@ -89,7 +89,7 @@ def ejecutar_capa_datos_completa():
 
     ejecutar_paso("Obtener índice A-Z del INE", obtener_html)
     ejecutar_paso("Extraer identificadores INE", extraer_identificadores)
-    ejecutar_paso("Descargar datos API INE", descargar_api)
+    ejecutar_paso("Descargar datos API INE", descargar_api, nult=1)
     ejecutar_paso("Descargar datos HREF/CSV INE", descargar_href)
     ejecutar_paso("Validar JSONL API", validar_api)
     ejecutar_paso("Validar JSONL HREF", validar_href)
