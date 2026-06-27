@@ -250,64 +250,83 @@ def generar_informe_plantilla(contexto_estudio):
         lineas.append(f"PILAR: {pilar.upper()}")
         lineas.append("-" * 80)
 
-        pregunta = resultado.get("pregunta")
-
-        if pregunta:
-            lineas.append(
-                f"Consulta ejecutada: {pregunta}"
-            )
-
-        contexto_llm = resultado.get(
-            "contexto_llm",
-            {}
-        )
-
-        datos = contexto_llm.get(
-            "datos_recuperados",
-            []
-        )
-
-        if not datos:
-            lineas.append(
-                "No se han recuperado datos."
-            )
+        if isinstance(resultado, dict):
+            resultados_pilar = [resultado]
+        elif isinstance(resultado, list):
+            resultados_pilar = resultado
+        else:
+            lineas.append("No se han recuperado datos.")
             lineas.append("")
             continue
 
-        for bloque in datos[:3]:
+        hay_datos = False
 
-            lineas.append(
-                f"Tabla: {bloque.get('id_tabla')}"
-            )
+        for item in resultados_pilar:
 
-            lineas.append(
-                f"Operación: {bloque.get('operacion')}"
-            )
+            if not isinstance(item, dict):
+                continue
 
-            serie = bloque.get("serie")
+            pregunta = item.get("pregunta")
 
-            if serie:
+            if pregunta:
                 lineas.append(
-                    f"Serie: {serie}"
+                    f"Consulta ejecutada: {pregunta}"
                 )
 
-            registros = bloque.get(
-                "datos",
+            contexto_llm = item.get(
+                "contexto_llm",
+                {}
+            )
+
+            datos = contexto_llm.get(
+                "datos_recuperados",
                 []
             )
 
-            for fila in registros[:5]:
+            if not datos:
+                continue
 
-                anyo = fila.get("anyo")
-                periodo = fila.get("periodo")
-                valor = fila.get("valor")
-                unidad = fila.get("unidad")
+            hay_datos = True
+
+            for bloque in datos[:3]:
 
                 lineas.append(
-                    f"  - {anyo} | "
-                    f"{periodo} | "
-                    f"{valor} {unidad or ''}"
+                    f"Tabla: {bloque.get('id_tabla')}"
                 )
+
+                lineas.append(
+                    f"Operación: {bloque.get('operacion')}"
+                )
+
+                serie = bloque.get("serie")
+
+                if serie:
+                    lineas.append(
+                        f"Serie: {serie}"
+                    )
+
+                registros = bloque.get(
+                    "datos",
+                    []
+                )
+
+                for fila in registros[:5]:
+
+                    anyo = fila.get("anyo")
+                    periodo = fila.get("periodo")
+                    valor = fila.get("valor")
+                    unidad = fila.get("unidad")
+
+                    lineas.append(
+                        f"  - {anyo} | "
+                        f"{periodo} | "
+                        f"{valor} {unidad or ''}"
+                    )
+
+        if not hay_datos:
+            lineas.append(
+                "No se han recuperado datos."
+            )
 
         lineas.append("")
 
